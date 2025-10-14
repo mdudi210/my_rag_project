@@ -1,0 +1,25 @@
+confluence:
+  base_url: "https://your-domain.atlassian.net/wiki"
+  username: "you@company.com"
+  api_token: "YOUR_CONFLUENCE_API_TOKEN"
+  space_key: "YOUR_SPACE"
+
+sharepoint:
+  access_token: "YOUR_GRAPH_API_TOKEN"
+  site_id: "YOUR_SITE_ID"
+  drive_id: "YOUR_DRIVE_ID"
+
+web:
+  urls:
+    - "https://your-internal-docs.company.com/page1"
+    - "https://anotherpage.company.com"
+
+vector_db:
+  type: "chroma"
+  persist_directory: "embeddings/vector_db"
+
+embedding:
+  model_name: "hkunlp/instructor-xl"
+
+llm:
+  model: "llama3"
