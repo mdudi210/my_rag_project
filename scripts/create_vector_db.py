@@ -1,12 +1,14 @@
 from langchain_community.vectorstores import Chroma
 # Or import from other vector DB connectors (Qdrant, etc.)
-from langchain_community.embeddings import HuggingFaceInstructEmbeddings
+# from langchain_community.embeddings import HuggingFaceInstructEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 import os
 
 def build_db(chunks, persist_dir="embeddings/vector_db"):
     os.makedirs(persist_dir, exist_ok=True)
     # Choose your local embedding model
-    embedder = HuggingFaceInstructEmbeddings(model_name="hkunlp/instructor-xl")
+    embedder = HuggingFaceEmbeddings(model_name="hkunlp/instructor-xl")
+    # embedder = HuggingFaceInstructEmbeddings(model_name="hkunlp/instructor-xl")
     vectordb = Chroma.from_documents(
         documents=chunks,
         embedding=embedder,

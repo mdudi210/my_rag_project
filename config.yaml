@@ -11,8 +11,7 @@ sharepoint:
 
 web:
   urls:
-    - "https://your-internal-docs.company.com/page1"
-    - "https://anotherpage.company.com"
+    - "https://www.watchguard.com"
 
 vector_db:
   type: "chroma"
