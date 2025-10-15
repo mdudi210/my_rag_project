@@ -1,0 +1,794 @@
+[
+  {
+    "url": "https://www.watchguard.com",
+    "file": "page_1.txt",
+    "title": "WatchGuard | Comprehensive Cybersecurity Solutions",
+    "word_count": 1543
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-about/contact",
+    "file": "page_2.txt",
+    "title": "Contact WatchGuard Technologies | Seattle, WA",
+    "word_count": 1029
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions",
+    "file": "page_3.txt",
+    "title": "Internet Security Solutions | WatchGuard",
+    "word_count": 763
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/security-trends",
+    "file": "page_4.txt",
+    "title": "Cybersecurity Trends | WatchGuard",
+    "word_count": 1115
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/security-trends/sd-wan",
+    "file": "page_5.txt",
+    "title": "SD-WAN Deployment Solutions",
+    "word_count": 862
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/security-trends/xdr-security",
+    "file": "page_6.txt",
+    "title": "What is XDR, how does it fit in your cybersecurity strategy?",
+    "word_count": 1566
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/security-trends/zero-trust",
+    "file": "page_7.txt",
+    "title": "What Is Zero Trust Security? | WatchGuard",
+    "word_count": 957
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/security-trends/managed-security-services",
+    "file": "page_8.txt",
+    "title": "MSP vs MSSP: The Difference and History | WatchGuard Technologies",
+    "word_count": 1308
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/business",
+    "file": "page_9.txt",
+    "title": "Cybersecurity Solutions for Every Business | WatchGuard",
+    "word_count": 754
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/industries",
+    "file": "page_10.txt",
+    "title": "WatchGuard Industry Solutions | Find Your Perfect Fit",
+    "word_count": 761
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/regulatory-compliance",
+    "file": "page_11.txt",
+    "title": "Compliance, Governance, and Risk Management | WatchGuard",
+    "word_count": 965
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/organizations",
+    "file": "page_12.txt",
+    "title": "Cybersecurity for Any Organization | WatchGuard",
+    "word_count": 783
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/business/security-models",
+    "file": "page_13.txt",
+    "title": "Cybersecurity Frameworks for Your Business | WatchGuard Technologies",
+    "word_count": 911
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/msp",
+    "file": "page_14.txt",
+    "title": "Comprehensive Security For MSPs | WatchGuard",
+    "word_count": 955
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/msp/tech-stack",
+    "file": "page_15.txt",
+    "title": "Building a Smart Security Tech Stack | WatchGuard",
+    "word_count": 1413
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/msp/security-frameworks",
+    "file": "page_16.txt",
+    "title": "Selecting a Cybersecurity Framework for MSPs | WatchGuard",
+    "word_count": 1290
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/msp/cyber-insurance",
+    "file": "page_17.txt",
+    "title": "Cyber Insurance: An Exciting Business Opportunity for MSPs",
+    "word_count": 1224
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/soc",
+    "file": "page_18.txt",
+    "title": "Improve your Security Operations | WatchGuard",
+    "word_count": 804
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/soc/modern-soc",
+    "file": "page_19.txt",
+    "title": "Building a Modern SOC | WatchGuard",
+    "word_count": 1584
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/soc/threat-hunting",
+    "file": "page_20.txt",
+    "title": "Threat hunting: How to improve your cybersecurity program | WatchGuard",
+    "word_count": 1495
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-solutions/unified-security-platform",
+    "file": "page_21.txt",
+    "title": "Unified Security Platform® from WatchGuard",
+    "word_count": 1268
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products",
+    "file": "page_22.txt",
+    "title": "Products & Services | WatchGuard",
+    "word_count": 1012
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/network-security",
+    "file": "page_23.txt",
+    "title": "Unified Network Security for Hybrid Enterprise",
+    "word_count": 1185
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/firewalls",
+    "file": "page_24.txt",
+    "title": "Firewalls | WatchGuard Firebox Products",
+    "word_count": 1065
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/security-services",
+    "file": "page_25.txt",
+    "title": "Firewall Security Services | WatchGuard Technologies",
+    "word_count": 1552
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/sase/firecloud-total-access",
+    "file": "page_26.txt",
+    "title": "FireCloud Total Access | Zero Trust for Remote Work",
+    "word_count": 1116
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/threatsync-ndr",
+    "file": "page_27.txt",
+    "title": "ThreatSync+ NDR, Network Detection and Response | WatchGuard",
+    "word_count": 985
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/secure-wifi",
+    "file": "page_28.txt",
+    "title": "Secure Cloud-Managed Wi-Fi Products & Solutions | WatchGuard",
+    "word_count": 1014
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/endpoint-security",
+    "file": "page_29.txt",
+    "title": "WatchGuard Endpoint Security | Combat Advanced Threats",
+    "word_count": 936
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/endpoint-protection-detection-response",
+    "file": "page_30.txt",
+    "title": "WatchGuard Endpoint Detection & Response (EDR)",
+    "word_count": 879
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/watchguard-endpoint-protection-antivirus",
+    "file": "page_31.txt",
+    "title": "Endpoint Protection & Next-Gen Antivirus | WatchGuard",
+    "word_count": 946
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/endpoint-security-modules",
+    "file": "page_32.txt",
+    "title": "Patch Management & Data Protection | Endpoint Security",
+    "word_count": 784
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/dnswatchgo",
+    "file": "page_33.txt",
+    "title": "DNSWatchGO | DNS Protection & Content Filtering",
+    "word_count": 1037
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/authpoint",
+    "file": "page_34.txt",
+    "title": "AuthPoint Identity Security and MFA Solutions | WatchGuard",
+    "word_count": 998
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/authpoint/multi-factor-authentication",
+    "file": "page_35.txt",
+    "title": "Cloud-Based Network Authentication Services | WatchGuard",
+    "word_count": 1012
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/authpoint/sso",
+    "file": "page_36.txt",
+    "title": "Single Sign-On (SSO) Improves User Experience | WatchGuard",
+    "word_count": 914
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/authpoint/hardware-tokens",
+    "file": "page_37.txt",
+    "title": "AuthPoint Hardware Tokens Don’t Expose Data",
+    "word_count": 863
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/platform",
+    "file": "page_38.txt",
+    "title": "Platform Security Capabilities | WatchGuard",
+    "word_count": 897
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/threatsync-family",
+    "file": "page_39.txt",
+    "title": "AI-Powered XDR from WatchGuard",
+    "word_count": 1002
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/watchguard-cloud",
+    "file": "page_40.txt",
+    "title": "Centralized Management & Visibility | WatchGuard",
+    "word_count": 1094
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/compliance-reports",
+    "file": "page_41.txt",
+    "title": "Compliance Reporting | WatchGuard",
+    "word_count": 791
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/security-operations-center-soc",
+    "file": "page_42.txt",
+    "title": "Modernize your SOC practices | WatchGuard Technologies",
+    "word_count": 1175
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/managed-services",
+    "file": "page_43.txt",
+    "title": "Managed Security Services for MSPs | WatchGuard",
+    "word_count": 888
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/managed-services/mdr",
+    "file": "page_44.txt",
+    "title": "Managed Detection & Response for MSPs | WatchGuard",
+    "word_count": 1211
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/all-products-list",
+    "file": "page_45.txt",
+    "title": "All WatchGuard Products | WatchGuard Technologies",
+    "word_count": 753
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-resource-center",
+    "file": "page_46.txt",
+    "title": "Product Resources | WatchGuard Technologies",
+    "word_count": 893
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-security-hub",
+    "file": "page_47.txt",
+    "title": "Cybersecurity Education & Resources | WatchGuard",
+    "word_count": 1028
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-security-hub/internet-security-report",
+    "file": "page_48.txt",
+    "title": "Internet Security Report | WatchGuard",
+    "word_count": 850
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-security-hub/threat-landscape",
+    "file": "page_49.txt",
+    "title": "Threat Landscape | WatchGuard Technologies",
+    "word_count": 1114
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-security-hub/ransomware-tracker",
+    "file": "page_50.txt",
+    "title": "Ransomware Tracker | WatchGuard Technologies",
+    "word_count": 819
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-security-hub/secplicity-blog",
+    "file": "page_51.txt",
+    "title": "Secplicity Blog | WatchGuard Technologies",
+    "word_count": 1012
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-security-hub/podcast-the-443",
+    "file": "page_52.txt",
+    "title": "The 443 - Security Simplified Podcast",
+    "word_count": 1070
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-resource-center/webinars",
+    "file": "page_53.txt",
+    "title": "Webinars | WatchGuard Technologies",
+    "word_count": 753
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-resource-center/white-papers",
+    "file": "page_54.txt",
+    "title": "White Papers | WatchGuard Technologies",
+    "word_count": 986
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-resource-center/datasheets",
+    "file": "page_55.txt",
+    "title": "Datasheets and Brochures | WatchGuard Technologies",
+    "word_count": 874
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-resource-center/case-studies",
+    "file": "page_56.txt",
+    "title": "Case Studies | WatchGuard Technologies",
+    "word_count": 878
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-resource-center/help-me-choose",
+    "file": "page_57.txt",
+    "title": "NGFW or UTM: How to Choose | WatchGuard Technologies",
+    "word_count": 1264
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-resource-center/watchguard-appliance-sizing-tool",
+    "file": "page_58.txt",
+    "title": "WatchGuard Appliance Sizing Tool | WatchGuard Technologies",
+    "word_count": 587
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/appliances-compare",
+    "file": "page_59.txt",
+    "title": "Compare Firewall Appliances | WatchGuard Technologies",
+    "word_count": 1060
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-partners/technology-partners",
+    "file": "page_60.txt",
+    "title": "Technology Partner Ecosystem & Product Integrations | WatchGuard",
+    "word_count": 893
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/how-to-buy-watchguard",
+    "file": "page_61.txt",
+    "title": "How to Buy WatchGuard | Find a Reseller or Contact Sales",
+    "word_count": 1696
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/demos-free-trials",
+    "file": "page_62.txt",
+    "title": "WatchGuard Demos & Free Trials | Instant Access, No Setup",
+    "word_count": 727
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-resource-center/promotions",
+    "file": "page_63.txt",
+    "title": "Sales Promotions | WatchGuard Technologies",
+    "word_count": 854
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-partners",
+    "file": "page_64.txt",
+    "title": "Partner Program for Managed Service Providers & VARs",
+    "word_count": 910
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-partners/channel-partner-program",
+    "file": "page_65.txt",
+    "title": "Channel Partner Program for Security Solution Providers",
+    "word_count": 1248
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-partners/watchguard-benefits-msps",
+    "file": "page_66.txt",
+    "title": "MSP Partner Program: Benefits & Overview | WatchGuard",
+    "word_count": 1122
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-partners/getting-started",
+    "file": "page_67.txt",
+    "title": "Channel Partner Program: Benefits & Requirements | WatchGuard",
+    "word_count": 1442
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-partners/join-watchguardone",
+    "file": "page_68.txt",
+    "title": "Join the WatchGuardONE Reseller Partner Program | WatchGuard",
+    "word_count": 645
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-partners/cloud-platform",
+    "file": "page_69.txt",
+    "title": "Cloud Security Management for VARs and MSPs",
+    "word_count": 1109
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-partners/unified-security-platform-partners",
+    "file": "page_70.txt",
+    "title": "Unified Security Platform for Partners | WatchGuard",
+    "word_count": 1550
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-partners/specializations-certifications",
+    "file": "page_71.txt",
+    "title": "Partner Specializations & Certifications | WatchGuard",
+    "word_count": 789
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-partners/partner-tools",
+    "file": "page_72.txt",
+    "title": "Tools for Our Partners: Distributors, MSP & IT Resellers | WatchGuard",
+    "word_count": 1170
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-resource-center/partner-success-stories",
+    "file": "page_73.txt",
+    "title": "Success Stories from IT, MSP & Security Solution Providers | WatchGuard",
+    "word_count": 866
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news",
+    "file": "page_74.txt",
+    "title": "WatchGuard News | WatchGuard Technologies",
+    "word_count": 1282
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/press-releases",
+    "file": "page_75.txt",
+    "title": "Press Releases | WatchGuard News & Updates",
+    "word_count": 1255
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/press-coverage",
+    "file": "page_76.txt",
+    "title": "Press Coverage | WatchGuard in the News",
+    "word_count": 808
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/blog",
+    "file": "page_77.txt",
+    "title": "WatchGuard Blog | WatchGuard Technologies",
+    "word_count": 1181
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-resource-center/events",
+    "file": "page_78.txt",
+    "title": "Internet Security Events | Webinars & Seminars from WatchGuard",
+    "word_count": 2332
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/awards",
+    "file": "page_79.txt",
+    "title": "Awards & Product Reviews | WatchGuard",
+    "word_count": 1315
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/media-contacts",
+    "file": "page_80.txt",
+    "title": "WatchGuard Media Contacts | Americas, APAC, EMEA",
+    "word_count": 521
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-about",
+    "file": "page_81.txt",
+    "title": "About WatchGuard | Enterprise-Grade Security",
+    "word_count": 696
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-about/leadership",
+    "file": "page_82.txt",
+    "title": "Leadership at WatchGuard | Executives & Board of Directors",
+    "word_count": 724
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-about/real-security",
+    "file": "page_83.txt",
+    "title": "WatchGuard Means Real Security for the Real World",
+    "word_count": 1020
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-about/corporate-social-responsibility",
+    "file": "page_84.txt",
+    "title": "Corporate Social Responsibility | WatchGuard Technologies",
+    "word_count": 885
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-careers",
+    "file": "page_85.txt",
+    "title": "WatchGuard | Protect the Internet & Grow Your Career",
+    "word_count": 268
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-resource-center/kraken/the-last-stop",
+    "file": "page_86.txt",
+    "title": "The Last Stop of Defense | WatchGuard | Seattle Kraken",
+    "word_count": 907
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-resource-center/girona-fc",
+    "file": "page_87.txt",
+    "title": "Real Security for Every Arena | WatchGuard | FC Girona",
+    "word_count": 632
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-support/overview",
+    "file": "page_88.txt",
+    "title": "WatchGuard Support | Download Software & Activate Products",
+    "word_count": 879
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-help/documentation",
+    "file": "page_89.txt",
+    "title": "Documentation | WatchGuard Technologies",
+    "word_count": 594
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-blog",
+    "file": "page_90.txt",
+    "title": "Product and Support News | WatchGuard Technologies",
+    "word_count": 1030
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-support/security-portal/overview",
+    "file": "page_91.txt",
+    "title": "Security Portal | WatchGuard Technologies",
+    "word_count": 875
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-training/overview",
+    "file": "page_92.txt",
+    "title": "Training & Certification | WatchGuard Technologies",
+    "word_count": 674
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-training/certification",
+    "file": "page_93.txt",
+    "title": "Certification | WatchGuard Technologies",
+    "word_count": 2219
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-training/locate-training-center",
+    "file": "page_94.txt",
+    "title": "Locate a Training Partner | WatchGuard Technologies",
+    "word_count": 1574
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-training/partners-schedule",
+    "file": "page_95.txt",
+    "title": "Training Schedule | WatchGuard Technologies",
+    "word_count": 698
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-help/video-tutorials/overview",
+    "file": "page_96.txt",
+    "title": "Video Tutorials | WatchGuard Technologies",
+    "word_count": 656
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-support-services/overview",
+    "file": "page_97.txt",
+    "title": "Support Services | WatchGuard Technologies",
+    "word_count": 886
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-support/hire-expert",
+    "file": "page_98.txt",
+    "title": "Hire an Expert | WatchGuard Technologies",
+    "word_count": 596
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-support/support-levels",
+    "file": "page_99.txt",
+    "title": "Compare Support Levels | WatchGuard Technologies",
+    "word_count": 793
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-support/additional-support-services",
+    "file": "page_100.txt",
+    "title": "Additional Support Services | WatchGuard Technologies",
+    "word_count": 600
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-psirt/advisories",
+    "file": "page_101.txt",
+    "title": "Security Advisories | WatchGuard Technologies",
+    "word_count": 1126
+  },
+  {
+    "url": "https://www.watchguard.com/fr",
+    "file": "page_102.txt",
+    "title": "WatchGuard | Solutions complètes de cybersécurité",
+    "word_count": 2008
+  },
+  {
+    "url": "https://www.watchguard.com/de",
+    "file": "page_103.txt",
+    "title": "WatchGuard | Umfassende Cybersicherheitslösungen",
+    "word_count": 1504
+  },
+  {
+    "url": "https://www.watchguard.com/it",
+    "file": "page_104.txt",
+    "title": "WatchGuard | Soluzioni complete per la sicurezza informatica",
+    "word_count": 1873
+  },
+  {
+    "url": "https://www.watchguard.com/br",
+    "file": "page_105.txt",
+    "title": "WatchGuard | Soluções de cibersegurança abrangentes",
+    "word_count": 1832
+  },
+  {
+    "url": "https://www.watchguard.com/es",
+    "file": "page_106.txt",
+    "title": "WatchGuard | Soluciones integrales de ciberseguridad",
+    "word_count": 1901
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/endpoint-prime",
+    "file": "page_107.txt",
+    "title": "Endpoint Security Prime | WatchGuard",
+    "word_count": 973
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/rack-mount",
+    "file": "page_108.txt",
+    "title": "Rackmount Firewall Appliances | WatchGuard",
+    "word_count": 919
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-resource-center/watchguard-automation-core",
+    "file": "page_109.txt",
+    "title": "WatchGuard Automation Core Addresses Key Security Challenges",
+    "word_count": 926
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/demos-free-trials?utm_source=Website&utm_term=WG-Cloud",
+    "file": "page_110.txt",
+    "title": "WatchGuard Demos & Free Trials | Instant Access, No Setup",
+    "word_count": 727
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-about/how-to-enable-marketo",
+    "file": "page_111.txt",
+    "title": "How to allow Marketo scripts | WatchGuard Technologies",
+    "word_count": 1098
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/blog/going-beyond-prevention-five-essentials-true-edr-solution",
+    "file": "page_112.txt",
+    "title": "WatchGuard Endpoint Security Prime | WatchGuard Blog",
+    "word_count": 1561
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/press-releases/watchguard-ends-edr-paywall-introducing-endpoint-security-prime",
+    "file": "page_113.txt",
+    "title": "WatchGuard Ends the EDR Paywall: Introducing Endpoint Security Prime | WatchGuard Technologies",
+    "word_count": 1478
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/blog/agentic-ai-and-future-cybersecurity-field-ctos-perspective-0",
+    "file": "page_114.txt",
+    "title": "Agentic AI is changing cybersecurity. Learn how autonomous attacks and AI-driven defense will shape the future of digital protection.",
+    "word_count": 1864
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/blog/how-ai-reshaping-cybersecurity-k12",
+    "file": "page_115.txt",
+    "title": "K-12 schools face new AI threats - see how to stay secure.",
+    "word_count": 1819
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/blog/art-stronger-passwords-age-ai",
+    "file": "page_116.txt",
+    "title": "Stronger Passwords: Defend Against AI-Powered Attacks",
+    "word_count": 2032
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/awards?type=7946",
+    "file": "page_117.txt",
+    "title": "Awards & Product Reviews | WatchGuard",
+    "word_count": 619
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-resource-center/canalys-cybersecurity-champion-2025",
+    "file": "page_118.txt",
+    "title": "WatchGuard Named 2025 Canalys Cybersecurity Champion",
+    "word_count": 624
+  },
+  {
+    "url": "https://www.watchguard.com/de/wgrd-news/blog/silber-fuer-watchguard-bei-den-it-awards",
+    "file": "page_119.txt",
+    "title": "IT-Awards 2024: Enterprise Network Firewalls",
+    "word_count": 957
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/blog/watchguard-wins-crn-2024-annual-report-card-arc-awards",
+    "file": "page_120.txt",
+    "title": "CRN Recognizes WatchGuard 2024 ARC Award | WatchGuard Blog",
+    "word_count": 1304
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/blog/crn-recognizes-watchguards-panjwani-welch-top-100-executives-list",
+    "file": "page_121.txt",
+    "title": "CRN Recognizes WatchGuard in Top Execs List| WatchGuard Blog",
+    "word_count": 1239
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/blog/watchguard-wins-2024-channelvision-visionary-spotlight-award",
+    "file": "page_122.txt",
+    "title": "WatchGuard Wins 2024 Visionary Spotlight Award",
+    "word_count": 1058
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/blog/watchguard-endpoint-security-wins-2024-fortress-cybersecurity-award",
+    "file": "page_123.txt",
+    "title": "WatchGuard Wins 2024 Fortress Award | WatchGuard Blog",
+    "word_count": 995
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/blog/celebrating-our-accomplished-2024-women-channel-and-power-100-winners",
+    "file": "page_124.txt",
+    "title": "WatchGuard Recognized in CRN Women of the Channel| WatchGuard Blog",
+    "word_count": 1275
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-news/blog/watchguard-wins-three-2024-global-infosec-awards",
+    "file": "page_125.txt",
+    "title": "WatchGuard Wins Three 2024 Global InfoSec Awards",
+    "word_count": 1028
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-products/purchase-options",
+    "file": "page_126.txt",
+    "title": "Product List and SKUs | WatchGuard Technologies",
+    "word_count": 521
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-trust-center",
+    "file": "page_127.txt",
+    "title": "Ensuring Reliability in Cybersecurity | WatchGuard Technologies",
+    "word_count": 857
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-trust-center/cookie-policy",
+    "file": "page_128.txt",
+    "title": "Cookie Policy | WatchGuard Technologies",
+    "word_count": 1547
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-trust-center/privacy-policy",
+    "file": "page_129.txt",
+    "title": "Privacy Policy | WatchGuard Technologies",
+    "word_count": 6938
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-sales/emailus",
+    "file": "page_130.txt",
+    "title": "Contact a Sales Specialist | WatchGuard Technologies",
+    "word_count": 620
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-trust-center/terms-of-use",
+    "file": "page_131.txt",
+    "title": "Terms of Use | WatchGuard Technologies",
+    "word_count": 3981
+  },
+  {
+    "url": "https://www.watchguard.com/wgrd-trust-center/us-residents",
+    "file": "page_132.txt",
+    "title": "Notice to U.S. Residents | WatchGuard Technologies",
+    "word_count": 4477
+  }
+]

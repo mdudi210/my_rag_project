@@ -9,9 +9,19 @@ sharepoint:
   site_id: "YOUR_SITE_ID"
   drive_id: "YOUR_DRIVE_ID"
 
+# web:
+#   urls:
+#     - "https://www.watchguard.com"
+
+# new web scraper
 web:
   urls:
     - "https://www.watchguard.com"
+  max_depth: 1               # -1 for infinite recursion (for pages that need to be scraped)
+  same_domain_only: true     # stay within same domain (to avoid scraping external links)
+  crawl_delay: 2             # seconds between requests (to avoid being blocked by the server)
+  user_agent: "ManishRAGBot/1.0 (contact: you@example.com)" # user agent (to log requests)
+
 
 vector_db:
   type: "chroma"
@@ -22,3 +32,27 @@ embedding:
 
 llm:
   model: "llama3"
+
+
+rag:
+  source_root: "data_sources/web"
+  output_root: "data_sources/chunks"
+  chunk_size: 1000
+  chunk_overlap: 200
+
+vector_db:
+  persist_dir: "embeddings/vector_db"
+  model_name: "hkunlp/instructor-xl"
+  batch_size: 32
+  use_gpu: true
+  db_type: "chroma"      # "chroma" or "qdrant"
+  collection_name: "rag_docs"
+  retry_attempts: 3
+  skip_failed: true
+  # for query_rag.py
+  k: 3
+  llm_model: "llama3"
+
+chat:
+  max_history_exchanges: 10
+  history_file: "chat_history.json"
