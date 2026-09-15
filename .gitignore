@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Generated RAG data
+data_sources/chunks/
+data_sources/web/
+embeddings/vector_db/
+
+# Local files
+chat_history.json
+.env
